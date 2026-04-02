@@ -504,10 +504,15 @@ Estimated monthly earnings = (followers × 0.05 × subscription_price) × (1 - p
 ## 📸 Screenshots
  
 | Page | Preview |
-|------|---------|
-| Homepage | [moonfanspro.goodcoderz.com](https://moonfanspro.goodcoderz.com) |
-| Creator Discovery | [/creators](https://moonfanspro.goodcoderz.com/creators) |
-| Shop | [/shop](https://moonfanspro.goodcoderz.com/shop) |
+|------|---------
+
+| Homepage | [moonfanspro.goodcoderz.com](https://moonfanspro.goodcoderz.com)![Homepage](https://github.com/user-attachments/assets/3c88bec4-6127-4206-9fdc-83dd419a10f9)
+
+
+| Creator Discovery | [/creators](https://moonfanspro.goodcoderz.com/creators) |![Creator Discovery](https://github.com/user-attachments/assets/fbbb93ae-21cb-43b8-9ca1-4b9e48e26743)
+
+| Shop | [/shop](https://moonfanspro.goodcoderz.com/shop) |![Shop](https://github.com/user-attachments/assets/239930e5-18d9-400b-ab2c-9672cf707e4b)
+
  
 ---
  
